@@ -96,3 +96,10 @@ def back_button_auto() -> InlineKeyboardMarkup:
     builder.button(text="◀️ Назад", callback_data="pending_reviews")
 
     return builder.as_markup()
+
+def back_button_auto2() -> InlineKeyboardMarkup:
+    builder = InlineKeyboardBuilder()
+    builder.button(text="Настройки⚙️", callback_data="settings")
+    builder.button(text="◀️ Назад", callback_data="auto_reply")
+    builder.adjust(1)
+    return builder.as_markup()

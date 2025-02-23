@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6418e037-df0f-4526-b7b7-3778cb91e1cd" name="Changes" comment="" />
+    <list default="true" id="6418e037-df0f-4526-b7b7-3778cb91e1cd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/WildLab_Bot2.1/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLab_Bot2.1/utils/pagination.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLab_Bot2.1/utils/prompts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WildLab_Bot2.1/utils/wb_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WildLab_Bot2.1/bot.db" beforeDir="false" afterPath="$PROJECT_DIR$/WildLab_Bot2.1/bot.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WildLab_Bot2.1/handlers/reviews.py" beforeDir="false" afterPath="$PROJECT_DIR$/WildLab_Bot2.1/handlers/reviews.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WildLab_Bot2.1/keyboards/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/WildLab_Bot2.1/keyboards/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WildLab_Bot2.1/keyboards/reviews.py" beforeDir="false" afterPath="$PROJECT_DIR$/WildLab_Bot2.1/keyboards/reviews.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WildLab_Bot2.1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/WildLab_Bot2.1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WildLab_Bot2.1/states.py" beforeDir="false" afterPath="$PROJECT_DIR$/WildLab_Bot2.1/states.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,9 +21,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2tPNn8nctrW208zVaiZKB0rHxS3" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,6 +33,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/ilyachuyak/Documents/GitHub/-"
   }

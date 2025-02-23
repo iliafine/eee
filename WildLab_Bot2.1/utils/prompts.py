@@ -1,6 +1,5 @@
-from models import UserSettings  # Добавляем импорт
-
-
+# utils/prompts.py
+from models import UserSettings
 def build_prompt(review: dict, user: UserSettings, arguments: list, solution: str = None) -> str:
     sections = [
         "Напиши ответ на отзыв с содержанием:",

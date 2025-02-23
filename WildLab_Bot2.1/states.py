@@ -21,3 +21,4 @@ class ReviewState(StatesGroup):
     waiting_for_send_confirmation = State()
     waiting_for_action = State()
     waiting_for_custom_reply = State()
+    waiting_for_solution = State()

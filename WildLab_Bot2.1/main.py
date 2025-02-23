@@ -2,6 +2,7 @@ import asyncio
 import logging
 from aiogram import Bot, Dispatcher
 from config import Config
+from utils import pagination, prompts
 from handlers import (
     start,
     consultation,
